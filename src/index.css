@@ -12,3 +12,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.sprite {
+  border: 1px solid black;
+  margin: 10px;
+}
+
+.sprite-name {
+  display: block;
+}
