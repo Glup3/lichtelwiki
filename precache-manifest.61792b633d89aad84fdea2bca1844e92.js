@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/lichtelwiki/static/js/runtime~main.6ddd46bc.js"
   },
   {
-    "revision": "bfa9c7399e1c00d40971",
-    "url": "/lichtelwiki/static/js/main.bfa9c739.chunk.js"
+    "revision": "4dba5755f144fe4dd597",
+    "url": "/lichtelwiki/static/js/main.4dba5755.chunk.js"
   },
   {
     "revision": "9dfbfc4b77ccde6d8c87",
     "url": "/lichtelwiki/static/js/1.9dfbfc4b.chunk.js"
   },
   {
-    "revision": "bfa9c7399e1c00d40971",
+    "revision": "4dba5755f144fe4dd597",
     "url": "/lichtelwiki/static/css/main.6559372a.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/lichtelwiki/static/css/1.2cdf9467.chunk.css"
   },
   {
-    "revision": "cd569bcd41ee061f1e78368b93a95f6c",
+    "revision": "33816fd7b6795d529a1daca99b1c7fa9",
     "url": "/lichtelwiki/index.html"
   }
 ];
