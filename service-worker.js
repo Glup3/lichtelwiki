@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/lichtelwiki/precache-manifest.61792b633d89aad84fdea2bca1844e92.js"
+  "/lichtelwiki/precache-manifest.1e95998b04c68004f039330ead4d2adc.js"
 );
 
 workbox.clientsClaim();
